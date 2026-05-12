@@ -26,15 +26,11 @@ Web development | Embedded Systems | Low-level & Computer Architecture
 
 Full-stack app (**React + Spring Boot + MySQL**) for real-time match management and player stats.
 
-🔗 https://github.com/MihneaRemetan/water-polo-referee-system  
-
 ---
 
 ### 💻 8086 Microsystem
 
 Low-level system using **8086 + peripherals**, built with Assembly for hardware-software interaction.
-
-🔗 https://github.com/MihneaRemetan/Microprocessor-8086-Project  
 
 ---
 
@@ -42,15 +38,11 @@ Low-level system using **8086 + peripherals**, built with Assembly for hardware-
 
 Console card game with multiplayer logic, bidding and scoring (**OOP-based design**).
 
-🔗 https://github.com/MihneaRemetan/Tromph-Game-Project  
-
 ---
 
 ### 🗂️ Treasure Hunt System (C)
 
 Multi-process CLI app using **signals & IPC** for process communication.
-
-🔗 https://github.com/MihneaRemetan/Treasure-Hunt-Project
 
 ---
 
