@@ -1,7 +1,12 @@
-# 👋 Hello, I'm Mihnea!  
-Web development | Embedded Systems | Low-level & Computer Architecture
+<div align="center">
+
+# 👋 Hello, I'm Mihnea!
+
+Web development | Embedded Systems | Low-level & Computer Architecture  
 
 🎓 Computer Engineering student @ Politehnica University of Timișoara  
+
+</div>
   
 ---
 
