@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Mihnea!
+# 👋 Hello, I'm Mihnea! 
+• Systems  • Embedded Systems  • Backend Development
 
 🎓 Computer Engineering student @ Politehnica University of Timișoara  
-💻 Focused on systems, backend development & low-level programming  
-🚀 I learn by building real-world projects, not just studying theory  
+  
 
 ---
 
