@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mihnea
+# 👋 Hello, I'm Mihnea!
 
 🎓 Computer Engineering student @ Politehnica University of Timișoara  
 💻 Focused on systems, backend development & low-level programming  
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Highlighted Projects
+## 🛠️ Highlighted Projects
 
 ### 🏊 Water Polo Referee System
 
@@ -55,29 +55,7 @@ Multi-process CLI app using **signals & IPC** for process communication.
 
 ---
 
-## 💼 Experience
-
-### 🏢 Nokia – ACLabs Participant
-- Python & Bash scripting in Linux  
-- Unit & scenario testing (PyTest, GTest/GMock)  
-- Clean code & OOP principles  
-- Exposure to Rust & C++ comparison  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MihneaRemetan&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MihneaRemetan)
-
----
-
 ## 📫 Contact
 
 - 📧 mihnearemetan@gmail.com  
 - 💼 https://linkedin.com/in/mihnea-florin-remetan  
-
----
-
-💬 *Interested in building systems that actually work under the hood.*
