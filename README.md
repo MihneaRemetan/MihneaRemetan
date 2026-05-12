@@ -54,7 +54,13 @@ Multi-process CLI app using **signals & IPC** for process communication.
 
 ---
 
-## 📫 Contact
+## 🌟 Highlights
+- 🎓 Computer Engineering student @ Politehnica University of Timișoara 
+- 🏢 Liga AC Labs 2026 – Software Activities @Nokia  
+- 🇬🇧 English B2 - Cambridge FCE (First Certificate in English)
 
+---
+
+## 📫 Contact
 - 📧 mihnearemetan@gmail.com  
 - 💼 https://linkedin.com/in/mihnea-florin-remetan  
