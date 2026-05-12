@@ -25,6 +25,7 @@ Web development | Embedded Systems | Low-level & Computer Architecture
 ### 🏊 Water Polo Referee System
 
 Full-stack app (**React + Spring Boot + MySQL**) for real-time match management and player stats.
+
 `React` `Spring Boot` `MySQL` `JavaScript` `CSS`
 
 ---
