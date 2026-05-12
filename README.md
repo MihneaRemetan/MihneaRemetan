@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Mihnea!  
-🖥️ Web development
-🔌 Embedded Systems  
-⚙️ Low-level & Computer Architecture
+Web development | Embedded Systems | Low-level & Computer Architecture
 
 🎓 Computer Engineering student @ Politehnica University of Timișoara  
   
